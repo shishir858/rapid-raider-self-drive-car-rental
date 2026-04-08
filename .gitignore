@@ -1,0 +1,9 @@
+/.cursor/
+/vendor/
+/composer.phar
+.env
+*.log
+*.cache
+Thumbs.db
+desktop.ini
+.DS_Store
